@@ -2,11 +2,11 @@
 Academic mini project for the course module IT 3003
 
 
- Clone the project or copy paste the code in ypur IDE
+ 1.Clone the project or copy paste the code in ypur IDE
 ----------------------------------------------
 
 
- Creating Data Base
+ 2.Creating Data Base
 ----------------------------------------------
 
 **Connect to your phpMyAdmin and create new database named 'testdb'**
@@ -17,7 +17,7 @@ Academic mini project for the course module IT 3003
 
 
 
- Run Programme
+ 3.Run Programme
 ----------------------------------------------
 
 1.open the src .java file named miniProjectJDBC in eclipse (or any IDE) and hit 'Run' (or play button)
