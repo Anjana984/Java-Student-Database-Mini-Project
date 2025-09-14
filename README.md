@@ -2,6 +2,10 @@
 Academic mini project for the course module IT 3003
 
 
+ Clone the project or copy paste the code in ypur IDE
+----------------------------------------------
+
+
  Creating Data Base
 ----------------------------------------------
 
