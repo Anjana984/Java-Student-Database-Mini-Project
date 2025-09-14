@@ -22,7 +22,7 @@ Academic mini project for the course module IT 3003
 
 3.then you have to choose an option depend on what you want to do out of 5 cases
 
-4.only 'Updating' will give you the changes you made , in real time , other wise you have to check it by viewing data
+4.only 'Updating' will show you the changes you made - in real time , other wise you have to check your changes by viewing data
  
 
 
