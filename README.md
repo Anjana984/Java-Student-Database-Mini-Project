@@ -7,9 +7,9 @@ Academic mini project for the course module IT 3003
 
 **Connect to your phpMyAdmin and create new database named 'testdb'**
 
-  1 . go to localhost/phpMyAdmin
-  2 . click on 'new' appears in side bar 
-  3 . give the name as 'testdb' and hit create
+  1. go to localhost/phpMyAdmin
+  2. click on 'new' appears in side bar 
+  3. give the name as 'testdb' and hit create
 
 
 
